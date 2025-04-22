@@ -1,1 +1,2 @@
-hello my name is ihsan ali and i am learning git and github for devops
+hello how are you
+i am fine what about you
